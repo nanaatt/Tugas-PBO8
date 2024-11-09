@@ -56,10 +56,10 @@ Laporan ini melanjutkan pembelajaran minggu sebelumnya, di mana kita telah melak
 10. Menambahkan Kode pada Button Upload. ⬆️
      - Jangan lupa tambahkan kode pada button Upload untuk mengunggah file jika diperlukan.
 
-    ![image](https://github.com/user-attachments/assets/79670347-33c4-4c91-9dd3-60fa87498881)
+    ![image](https://github.com/user-attachments/assets/aed5ef88-3988-4af5-8088-8f4fe42207ad)
 
 11. Menambahkan Kode pada Button Tampil. 👁️
      - Langkah terakhir, tambahkan kode pada button Tampil agar data dari database dapat ditampilkan saat dipanggil.
 
-    ![image](https://github.com/user-attachments/assets/be8d0e97-8bfa-44d8-bb56-b704c395bb80)
+    ![image](https://github.com/user-attachments/assets/465fc5b2-28e6-4f3a-9745-c4163b217006)
 
